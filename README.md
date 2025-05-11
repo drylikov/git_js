@@ -1,5 +1,6 @@
 # Implement a Simple Version Control with JavaScript to Understand Git Better! GitJS
 
+
 Read my article here: [Implement a Simple Version Control with JavaScript to Understand Git Better! ](https://www.linkedin.com/pulse/implement-simple-version-control-javascript-git-better-denis-rylikov-4qwke/?trackingId=Ydju4Vcyb4CpSw80WlvwUQ%3D%3D)
 
 ## The Reason of Existence
